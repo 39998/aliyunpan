@@ -1,7 +1,8 @@
 # Ubuntu阿里云盘一键安装脚本
 
 如何获取RefreshToken
-按F12点击控制台，输入以下代码
+浏览器登录阿里云盘网页版
+在Microsoft浏览器按F12点击控制台，输入以下代码
 ```
 JSON.parse(localStorage.getItem("token")).refresh_token
 ```
