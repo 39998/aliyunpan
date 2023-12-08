@@ -8,3 +8,11 @@
 aliyunpan > login -RefreshToken=32994cd2c43...4d505fa79
 
 源代码地址https://github.com/tickstep/aliyunpan
+
+```
+---
+name: YOURNAME
+institution/company: INSTITUTION_NAME
+github:USERNAME
+---
+```
